@@ -1,4 +1,6 @@
-package com.udacity.jdnd.course3.critter.pet;
+package com.udacity.jdnd.course3.critter.services;
+
+import com.udacity.jdnd.course3.critter.model.Pet;
 
 import java.util.List;
 

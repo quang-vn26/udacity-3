@@ -1,4 +1,7 @@
-package com.udacity.jdnd.course3.critter.user;
+package com.udacity.jdnd.course3.critter.services;
+
+import com.udacity.jdnd.course3.critter.enums.EmployeeSkill;
+import com.udacity.jdnd.course3.critter.model.Employee;
 
 import java.time.DayOfWeek;
 import java.util.List;

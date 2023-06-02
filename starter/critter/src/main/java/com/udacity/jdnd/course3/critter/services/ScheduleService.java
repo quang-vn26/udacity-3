@@ -1,4 +1,6 @@
-package com.udacity.jdnd.course3.critter.schedule;
+package com.udacity.jdnd.course3.critter.services;
+
+import com.udacity.jdnd.course3.critter.model.Schedule;
 
 import java.util.List;
 

@@ -1,4 +1,6 @@
-package com.udacity.jdnd.course3.critter.user;
+package com.udacity.jdnd.course3.critter.services;
+
+import com.udacity.jdnd.course3.critter.model.Customer;
 
 import java.util.List;
 
